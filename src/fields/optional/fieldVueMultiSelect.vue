@@ -20,6 +20,7 @@
 		:options-limit="selectOptions.optionsLimit",
 		:group-values="selectOptions.groupValues",
 		:group-label="selectOptions.groupLabel",
+		:group-select="selectOptions.groupSelect",
 		:block-keys="selectOptions.blockKeys",
 		:internal-search="selectOptions.internalSearch",
 		:select-label="selectOptions.selectLabel",
